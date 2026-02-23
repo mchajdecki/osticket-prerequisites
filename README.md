@@ -105,7 +105,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br>
 <br>
 
-<h1 id="vm">Creating a Virtual Machine</h1>
+<h1 id="vm"><i>Creating a Virtual Machine</i>/h1>
 <p>
   <ol type="1">
     <li>Go to the home page on the Azure platform and locate Virtual Machines.</li>
