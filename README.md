@@ -21,36 +21,77 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h1 id="vm">In This tutorial we will be creating the following resources in Microsoft Azure</h1>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Resource Group
+- Windows Virtual Machine
 
-<h2>Installation Steps</h2>
+<h3>For an in depth rundown on Microsoft Azure visit this <a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+  
+<br>
+<br>
+<br>
+<br>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+
+<h1 id="rg"><i>Creating a Resource Group</i></h1>
+<h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <ol type="1">
+     <li>Navigate to Microsoft Azure main portal.</li>
+    <li>Find the Resource Group option on the home page of the portal or type it in the search box.</li>
+    <li>Click on the Resource Group option to continue.</li>
+  </ol>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/mchajdecki/Network-Activities/blob/0d868bcca05c7445331d2166f2859dbe266d7b33/images/Slide-1.jpg" alt="Creating a Resource Group - Slide_1"/>
 </p>
-<br />
+<br>
+<hr>
+
+
+
+<p>
+  <ol type="1">
+    <li>Select the Subscription you are currently using.</li>
+    <li>Name the Resource Group.(e.g. NetworkActivities)</li>
+    <li>Select the appropriate time zone you are located in.</li>
+    <li>Click Review + Create on the bottom of the page to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/6ccb2f4dcc9fdfcf7a8b3c95cd63df5162d60f4d/images/Slide-2.jpg" alt="Creating a Resource Group - Slide_2"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+    <li>Click create again to continue.</li>
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/6ccb2f4dcc9fdfcf7a8b3c95cd63df5162d60f4d/images/Slide-3.jpg" alt="Creating a Resource Group - Slide_3"/>
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+    <li>A prompt message will display that the resource group has been successfully created.</li>
+    <li>The newly created Resource Group will show up on the Microsoft Azure main portal.</li>
+    <li>The Resource Group has been created.</li>  
+  </ol>
+</p>
+<p>
+<img src="https://github.com/mchajdecki/Network-Activities/blob/6ccb2f4dcc9fdfcf7a8b3c95cd63df5162d60f4d/images/Slide-4.jpg" alt="Creating a Resource Group - Slide_4"/>
+</p>
+<hr>
+<br>
+<br>
+<br>
