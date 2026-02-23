@@ -39,7 +39,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <li><a href="#rg">Creating Resource Group</a></li>
 <li><a href="#vm">Creating a Virtual Machine</a></li>
-<li><a href="#lin">Logging Into Virtual Machine</a></li>
+<li><a href="#login">Logging Into Virtual Machine</a></li>
 </ul>
 
 <br/>
@@ -105,7 +105,69 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br>
 <br>
 
-<h2>Logging Into a Virtual Machine</h2>
+<h1 id="vm">Creating a Virtual Machine</h1>
+<p>
+  <ol type="1">
+    <li>Go to the home page on the Azure platform and locate Virtual Machines.</li>
+    <li>Click on Virutal Machine option to get started.</li>
+  </ol>
+</p>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_23.jpg"  alt="CreatingaVirtualMachine _ Slide_23">
+</p>
+<br>
+<hr>
+
+<p>
+  <ol type="1">
+    <li>Click create in either place on the Virtual Machines page.</li>
+    <li>Select and click on Virtual Machine from the drop down menu.</li>
+      </ol>
+</p>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_24.jpg" alt="CreatingaVirtualMachine - Slide_24">
+</p>
+<br>
+<hr>
+
+
+<p>
+  <ol type="1">
+    <li>Select the subscription you are using.</li>
+    <li>Select the Resource Group previously created to store the VM into.</li>
+    <li>Name the Virtual Machine.</li>
+    <li>Select the appropriate region you are using the VM from.</li>
+    <li>Here is where you will select the type of VM you want to use - etc. Windows Fro - Linux. For testing purposes select Windows 10 Pro version 22H2 - x64 Gen.</li>
+    <li>Create a username and password *Remeber these credentials as you will be usingthem to log into the actual Virtual Machine once
+created.</li>
+    <li>Keep certain options at their default setting.</li>
+     <li>Make sure the box for Licensing is checked before proceeding.</li>
+     <li>Click Review + Create.</li>
+  </ol>
+</p>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_25.jpg" alt="CreatingaVirtualMachine - Slide_25">
+</p>
+<br>
+<hr>
+
+
+
+<p> 
+  <ol type="1">
+    <li>A message will display that the Validation has passed.</li>
+    <li>Click create on the bottom of the page to continue in creating the Virtual Machine.</li>
+    <li>The Virtual Machine has been successfully created.</li>
+  </ol>
+</p>
+<p>
+  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_26.jpg" alt="CreatingaVirtualMachine - Slide_26">
+</p>
+<br>
+<hr>
+  
+
+<h1 id=login">Logging Into a Virtual Machine</h1>
 
 <p>
   <ol type="1">
