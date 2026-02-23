@@ -89,7 +89,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/6ccb2f4dcc9fdfcf7a8b3c95cd63df5162d60f4d/images/Slide-4.jpg" alt="Creating a Resource Group - Slide_4"/>
+<img src="https://github.com/mchajdecki/osticket-prereqs/blob/2bfa522500f3cfdb9765646739d904cfb447e5a1/images/Slide-4.jpg" alt="Creating a Resource Group - Slide_4"/>
 </p>
 <hr>
 <br>
