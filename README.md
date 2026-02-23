@@ -57,13 +57,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   <ol type="1">
     <li>Select the Subscription you are currently using.</li>
-    <li>Name the Resource Group.(e.g. NetworkActivities)</li>
+    <li>Name the Resource Group.(e.g. OSTicketRG)</li>
     <li>Select the appropriate time zone you are located in.</li>
     <li>Click Review + Create on the bottom of the page to continue.</li>
   </ol>
 </p>
 <p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/6ccb2f4dcc9fdfcf7a8b3c95cd63df5162d60f4d/images/Slide-2.jpg" alt="Creating a Resource Group - Slide_2"/>
+<img src="https://github.com/mchajdecki/osticket-prereqs/blob/36b2177a05f6300789dfdfec6acd77880098fc39/images/Slide-2.jpg" alt="Creating a Resource Group - Slide_2"/>
 </p>
 <br>
 <hr>
