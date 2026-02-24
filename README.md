@@ -38,7 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <ul>
 
 <li><a href="#rg">Creating Resource Group</a></li>
-<li><a href="#vm1">Creating a Virtual Machine</a></li>
+<li><a href="#vm">Creating a Virtual Machine</a></li>
 <li><a href="#login">Logging Into Virtual Machine</a></li>
 </ul>
 
@@ -107,7 +107,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-<h1 id="vm1"><i>Creating a Virtual Machine</i>/h1>
+<h1 id="vm"><i>Creating a Virtual Machine</i></h1>
 <p>
   <ol type="1">
     <li>Go to the home page on the Azure platform and locate Virtual Machines.</li>
@@ -169,7 +169,7 @@ created.</li>
 <hr>
   
 
-<h1 id=login">Logging Into a Virtual Machine</h1>
+<h1 id="login">Logging Into a Virtual Machine</h1>
 
 <p>
   <ol type="1">
