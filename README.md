@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h1 id="vm">In This tutorial we will be creating the following resources in Microsoft Azure and proceed to Install OS Ticket Inside the Virtual Machine.</h1>
+<h1>In This tutorial we will be creating the following resources in Microsoft Azure and proceed to Install OS Ticket Inside the Virtual Machine.</h1>
 
 - Resource Group
 - Windows Virtual Machine
