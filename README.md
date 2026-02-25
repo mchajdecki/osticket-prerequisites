@@ -145,7 +145,7 @@ created.</li>
   </ol>
 </p>
 <p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a76cff76dfdf816f07ff269d7babf85f3df735ec/images/Slide_25.jpg" alt="CreatingaVirtualMachine - Slide_25">
+  <img src="https://github.com/mchajdecki/osticket-prerequisites/blob/a835e487a795527426e9dc4f7b6999fbea03980c/images/Slide-7.jpg" alt="CreatingaVirtualMachine - Slide_7">
 </p>
 <br>
 <hr>
@@ -160,7 +160,7 @@ created.</li>
   </ol>
 </p>
 <p>
-  <img src="https://github.com/mchajdecki/Microsoft-Azure/blob/95a413af6ef9b1e1154c1f15583ceb2f53785d92/images/Slide_26.jpg" alt="CreatingaVirtualMachine - Slide_26">
+  <img src="https://github.com/mchajdecki/osticket-prerequisites/blob/a835e487a795527426e9dc4f7b6999fbea03980c/images/Slide-8.jpg" alt="CreatingaVirtualMachine - Slide_8">
 </p>
 <br>
 <hr>
