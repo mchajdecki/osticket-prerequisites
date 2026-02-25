@@ -304,9 +304,9 @@ created.</li>
 
 <p>
   <ol type="1">
-    <li>Click the following link to download the osticket installation files <a href="https://github.com/mchajdecki/osticket-prerequisites/releases/latest/download/osTicket-Installation-Files.zip" class="btn">
-   Download Here
-</a>
+    <li>The next portion of the installation will all take place inside the virtual machine.</li>
+    <li>In the virtual machine click the following link to download the osticket installation files <a href="https://github.com/mchajdecki/osticket-prerequisites/releases/latest/download/osTicket-Installation-Files.zip" class="btn">
+   Download Here </a>
 
 
 </li>
