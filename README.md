@@ -304,9 +304,8 @@ created.</li>
 
 <p>
   <ol type="1">
-    <li>Click the following link to download the osticket files - <a href="https://github.mchajdecki/osticket-prerequisites/releases/download/osticket - Installation - Files/osTicket-Installation-Files.zip">
-    <a href="https://github.com/mchajdecki/osticket-prerequisites/releases/latest/download/osTicket-Installation-Files.zip" class="btn">
-   Download the Demo
+    <li>Click the following link to download the osticket installation files <a href="https://github.com/mchajdecki/osticket-prerequisites/releases/latest/download/osTicket-Installation-Files.zip" class="btn">
+   Download Here
 </a>
 
 
