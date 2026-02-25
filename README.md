@@ -137,7 +137,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <li>Name the Virtual Machine.</li>
     <li>Select the appropriate region you are using the VM from.</li>
     <li>Here is where you will select the type of VM you want to use - etc. Windows Fro - Linux. For testing purposes select Windows 10 Pro version 22H2 - x64 Gen.</li>
-    <li>Create a username and password *Remeber these credentials as you will be usingthem to log into the actual Virtual Machine once
+    <li>Create a username and password *Remeber these credentials as you will be using them to log into the actual Virtual Machine once
 created.</li>
     <li>Keep certain options at their default setting.</li>
      <li>Make sure the box for Licensing is checked before proceeding.</li>
