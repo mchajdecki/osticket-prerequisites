@@ -320,11 +320,23 @@ created.</li>
 <p>
  <ol type="1">
  <li>Extract the zip file to the desktop.</li>
- <li>Extracted folder osTicket-Installation-File will appear on the desktop</li>
+ <li>Extracted folder osTicket-Installation-File will appear on the desktop.</li>
  </ol>
  </p>
 <p>
   <img src="https://github.com/mchajdecki/osticket-prerequisites/blob/8a74f090f04feabd7c7b593f90144c13299c28d4/images/Slide_10.jpg" alt="DownloadosTicket-Slide_10">
+</p>
+ <br>
+ <hr>
+
+ <p>
+ <ol type="1">
+ <li>Search for an open the Control Panel.</li>
+ <li>Click on Programs to continue.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/a96d8f6f7fe0a74b373688a3978a534701b32ade/images/Slide_11.jpg" alt="DownloadosTicket-Slide_11">
 </p>
  <br>
  <hr>
