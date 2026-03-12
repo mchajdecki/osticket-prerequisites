@@ -368,3 +368,14 @@ created.</li>
 </p>
  <br>
  <hr>
+
+<p>
+ <ol type="1">
+ <li>From the osTicket-Installation-Files folder - double click the PHPManagerForIIS_V1.5.0 file to begin install.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/a39725ccba5a323db4b85baa8cb3c8bdf1281ce8/images/Slide_14.jpg" alt="DownloadosTicket-Slide_14">
+</p>
+ <br>
+ <hr>
