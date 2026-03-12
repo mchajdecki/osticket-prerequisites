@@ -351,3 +351,20 @@ created.</li>
 </p>
  <br>
  <hr>
+
+ <p>
+ <ol type="1">
+   <li>A Windows Features window will appear</li>
+ <li>In the Windows features we will Install / Enable IIS in Windows WITH CGI.</li>
+ <li>Check the box and click the plus sign next to Internet Information Services to expand more options.</li>
+ <li>Click the plus sign next to World Wide Web Services to expand more options.</li>
+ <li>Click the plus sign next to the Application Development Features to expand more options.</li>
+<li>Check the CGI box to enable it.</li>
+  <li>Click Ok to continue and turn on the features.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/4e55e3027bf0b26f8990aae5d35647a05ba29cc3/images/Slide_13.jpg" alt="DownloadosTicket-Slide_13">
+</p>
+ <br>
+ <hr>
