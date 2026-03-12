@@ -379,3 +379,17 @@ created.</li>
 </p>
  <br>
  <hr>
+
+ <p>
+ <ol type="1">
+ <li>Click Next to continue the installation.</li>
+   <li>Select I Agree - Click next to continue the installation.</li>
+   <li>Click close once installation is complete.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/2fa83a0a3e9920057fac40b515d2971ebd3236aa/images/Slide_15.jpg" alt="DownloadosTicket-Slide_15">
+</p>
+ <br>
+ <hr>
+
