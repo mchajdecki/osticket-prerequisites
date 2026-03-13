@@ -387,9 +387,9 @@ created.</li>
 
  <p>
  <ol type="1">
- <li>Click Next to continue the installation.</li>
-   <li>Select I Agree - Click next to continue the installation.</li>
-   <li>Click close once installation is complete.</li>
+  <li>Click Next to continue the installation.</li>
+  <li>Select I Agree - Click next to continue the installation.</li>
+  <li>Click close once installation is complete.</li>
  </ol>
  </p>
 <p>
@@ -409,3 +409,16 @@ created.</li>
 </p>
  <br>
  <hr>
+
+  <p>
+ <ol type="1">
+ <li>Check the License Agreement box and click Install to continue.</li>
+ <li>Click the Finish button to complete the installation.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/80ff03eed491597b1d71174d562e21e2c7e19116/images/Slide_17.jpg" alt="DownloadosTicket-Slide_17">
+</p>
+ <br>
+ <hr>
+
