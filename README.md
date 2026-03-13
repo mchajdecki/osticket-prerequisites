@@ -458,3 +458,40 @@ created.</li>
 </p>
  <br>
  <hr>
+
+ <h1><i>Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder</i></h1>
+ <p>
+ <ol type="1">
+ <li>From the osTicket-Installation-FIles right click the php-7.3.8-nts-Win32-VC15-x86.zip and select Extract All.</li>
+ <li></li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/b6f2ab3cdabb0e450a2836d729d010c89ba1b64c/images/Slide_21.jpg" alt="DownloadosTicket-Slide_21">
+</p>
+ <br>
+ <hr>
+
+ <p>
+ <ol type="1">
+ <li>In the select a destination and extract files - browse to find the PHP folder we created.</li>
+ <li>Select the PHP folder from This PC - Windows (C:) to continue.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/f8bfa2a737c5d38dcb821ea34f8d9c586d1bf152/images/Slide_22.jpg" alt="DownloadosTicket-Slide_22">
+</p>
+ <br>
+ <hr>
+
+<p>
+ <ol type="1">
+ <li>After the PHP folder is selected as the destination for the files to be extracted to.</li>
+ <li>Click extract to finish.</li>
+ </ol>
+ </p>
+<p>
+  <img src="https://github.com/mchajdecki/osticket-prerequisites-and-installation/blob/93aac352ced023a2a8963ff0efed4000e79b2740/images/Slide_23.jpg" alt="DownloadosTicket-Slide_23">
+</p>
+ <br>
+ <hr>
